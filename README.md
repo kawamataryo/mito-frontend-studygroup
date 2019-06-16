@@ -73,3 +73,9 @@ http://www.wagtailmito.jp/
 消防士から三十路間近でwebエンジニアに転職。一児の父。現在ひたちなか市からフルリモートで就業中。  
 Ruby, JavaScript, TypeScript, Vue.jsが好き。  
 詳しい自己紹介は[こちら](https://note.mu/ryo_kawamata/n/n4fc0fa900314)
+
+### なっぱ(Shuhei Yamashita)
+
+EC特化でエンジニアを続けてきた32歳。7月からは茨城県水戸市でフルリモートのマネージャーになる予定。
+最近のブームはRust, Golang, TypeScriptあたり。趣味は料理。
+茨城のエンジニア界隈を盛り上げていきましょう！！

@@ -73,3 +73,9 @@ http://www.wagtailmito.jp/
 消防士から三十路間近でwebエンジニアに転職。一児の父。現在ひたちなか市からフルリモートで就業中。  
 Ruby, JavaScript, TypeScript, Vue.jsが好き。  
 詳しい自己紹介は[こちら](https://note.mu/ryo_kawamata/n/n4fc0fa900314)
+
+### ara-e
+SIer→現在は社内SE。
+メインはC#ですがフロントエンドにも興味有り。
+楽しくプログラミングしましょう！
+
